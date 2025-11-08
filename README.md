@@ -28,7 +28,7 @@ Designed with a custom rounded button UI and hover effects for a sleek, modern l
 
 ---
 
-## 📷 Screenshot (Optional)
+## 📷 Screenshot 
 
 
 <img width="455" height="716" alt="image" src="https://github.com/user-attachments/assets/84e5eb12-3e4f-4aa1-9a64-08802515024a" />
